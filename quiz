@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Which one of the following is not a programming language of a computer?</h1>
+<ol><li>Python</li>
+    <li>Javascript</li>
+    <li>Html</li>
+    <li>code.org</li></ol>
+<form oninput="Answer.value=4">
+<span>
+<label>enter answer:<input type="text"id="txtAns">
+<button type="button">Click Me!</button>
+Correct answer is <output id="Answer">
+</output>
+</span>
+</form>
+</body>
+</html>
